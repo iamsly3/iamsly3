@@ -1,4 +1,4 @@
-### Hi there 👋
+This is my first Push Assignment 👋
 
 <!--
 **iamsly3/iamsly3** is a ✨ _special_ ✨ repository because its `README.md` (This is my first Push assignment on github) appears on your GitHub profile.
